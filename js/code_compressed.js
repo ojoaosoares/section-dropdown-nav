@@ -1,0 +1,1 @@
+let dropdown_btn=!1,body=window.document.querySelector("body"),screen_size=window.innerWidth;function size(){screen_size=window.innerWidth,768<screen_size?body.classList.remove("overflow"):screen_size<=768&&dropdown_btn&&body.classList.add("overflow"),console.log(screen_size)}function overflow(){dropdown_btn=!dropdown_btn,body.classList.toggle("overflow")}
