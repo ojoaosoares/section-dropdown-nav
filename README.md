@@ -6,7 +6,7 @@ Link para o desafio: [Intro Section with Dropdown Navigation](https://www.fronte
 
 Você pode acessar o site hospedado no Netlify através do link abaixo:
 
-[https://soares-intro-with-dropdown.netlify.app/](https://soares-intro-with-dropdown.netlify.app/)
+https://soares-intro-with-dropdown.netlify.app/
 
 ## Estrutura do Projeto
 
