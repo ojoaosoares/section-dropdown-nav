@@ -21,7 +21,7 @@ https://soares-intro-with-dropdown.netlify.app/
 
 ## Contact
 
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 # Contributions
 
